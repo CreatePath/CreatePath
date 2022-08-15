@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=SuHyun%20Lee&fontSize=90)   
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=CreatePath&fontSize=90)   
 
 # Academic Career
 **_Member_ of the _Student Council_ of _the Department of AI Convergence_, in _Soongsil University_ (2022.03 ~ )**   
